@@ -5,5 +5,5 @@
 - Jquery 2.2.4
 
 ## Catatan
-> Silahkan import dulu databasenya.
-> Lalu pada config/database.php jangan lupa disesuaikan.
+- Silahkan import dulu databasenya.
+- Lalu pada config/database.php jangan lupa disesuaikan.
